@@ -1,0 +1,80 @@
+/*here profile .php*/
+
+.tbl-30{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: 1px dashed black;
+    background-color: lightgray;
+}
+.tbl-30 tr td{
+    
+    border-bottom: 2px solid black;
+     text-shadow: black;
+     padding: 2%;
+     text-align: center;
+ }
+ .tbl-30 tr td a{
+    color: white;
+  background-color: black;
+ border: 1px solid white;
+ font-size: large;
+ padding: 1%;
+ }
+
+ .tbl-30 tr td a:hover{
+   background-color: #ff6b81;
+   color: black;
+   font-weight: bold;
+   }
+
+   .icon img{
+       width: 5%;
+       height: 5%;
+       padding: 5px;
+       margin-bottom: -11%;
+       margin-left: 47%;
+   }
+   .wrapper{
+       background-color: #34ace0;
+   }
+   /*here update profile.php*/
+   .success{
+       text-align: center;
+       color: #ff6b81;
+   }
+   .all{
+       background-color: #34ace0;
+       padding: 10%;
+   }
+   textarea{
+	margin: 1px;
+	height: 50px;
+	width: 300px;
+	font-size: 18px;
+	text-align: center;
+	background-color: #fff;
+    border: 2px solid black;
+	
+}
+
+.btn-confirm{
+    margin: 1px;
+	padding: 15px 25px;
+	border: none;
+	background-color: #34ace0;
+	color: #fff;
+}
+.btn-confirm:hover{
+    background-color: #ff6b81;
+}
+
+.icon1 img{
+    width: 5%;
+    height: 7%;
+    padding: 9px;
+    margin-bottom: -20%;
+    margin-left: 47%;
+    border: 2px dotted black;
+}
